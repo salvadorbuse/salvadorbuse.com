@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post2
 title: "More Jekyll Themes!t6"
 ---
 
