@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="">
   <head>
     <meta charset="UTF-8">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -7,6 +7,22 @@
     <meta name="description" content="{{ site.data.settings.seo.description }}">
     <meta rel="author" href="{{ site.data.settings.seo.rel-author }}">
     <meta rel="publisher" href="{{ site.data.settings.seo.rel-publisher }}">
+
+    <title>
+      {% if page.title == "Home" %}
+        {{ site.title }}
+      {% else %}
+        {{ page.title }} | {{ site.title }}
+      {% endif %}
+    </title>
+  
+    <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
 
     <!--{% include head.html %}-->
     {% include scripts/mathjax.html %}
@@ -67,7 +83,7 @@
     <!--<div class="post distill">-->
     <div>
 
-      <div>
+      <div class="site-container">
         <h1 class="project-title">{{ page.title }}</h1>
         <h4 class="project-title">{{ page.description }}</p>
         <!--<div class="project-load">{{ content }}</div>-->
@@ -90,6 +106,8 @@
 
     {% include footer.html %}
 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="{{ site.github.url }}/assets/js/functions.js"></script>
   </body>
 
   <!--<d-bibliography src="{{ page.bibliography | prepend: '/assets/bibliography/' | relative_url }}">
