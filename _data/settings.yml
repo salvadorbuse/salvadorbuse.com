@@ -8,7 +8,7 @@ menu:
 - {name: 'CV', url: 'pages/cv.html'}
 #- {name: 'P1', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'P2', url: 'projects/proj-1.html'}
-- {name: 'CV', url: 'projects/cv.html'}
+- {name: 'CV', url: 'projects/cv.md'}
 #- {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
