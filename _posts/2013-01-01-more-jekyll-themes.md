@@ -1,6 +1,6 @@
 ---
-layout: post2
-title: "More Jekyll Themes!t5"
+layout: post
+title: "More Jekyll Themes!t6"
 ---
 
 #### Lagrange
