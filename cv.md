@@ -16,7 +16,6 @@ permalink: /cv/
 **BA in Natural Sciences (Chemistry)** — University of Cambridge, Trinity College, *Oct 2016 - Jul 2019*
 
 ## Publications
-
 ### Forthcoming Publications and Preprints  
 
 ### Peer-reviewed Publications
