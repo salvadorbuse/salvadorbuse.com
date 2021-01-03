@@ -1,6 +1,5 @@
 ---
-layout: post
-title: 
+layout: default
 permalink: /about/
 ---
 # Bio
