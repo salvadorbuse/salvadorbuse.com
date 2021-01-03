@@ -16,14 +16,10 @@ permalink: /cv/
 **BA in Natural Sciences (Chemistry)** — University of Cambridge, Trinity College, *Oct 2016 - Jul 2019*
 
 ## Publications
-### Forthcoming Publications and Preprints  
+#### Forthcoming Publications and Preprints  
 
-### Peer-reviewed Publications
-<ol>
-<li> Afnan Azizi, Anne Herrmann, Yinan Wan, <b>Salvador Buse</b>, Phillipp J Keller, Raymond Goldstein, and William A Harris. (2020).
-"Nuclear crowding and nonlinear diffusion during interkinetic nuclear migration in the zebrafish retina". <i>eLife</i>. DOI:[10.7554/eLife.58635](https://elifesciences.org/articles/58635).
-<a class="button" href="https://elifesciences.org/articles/58635">Open Access PDF</a></li>
-</ol>
+#### Peer-reviewed Publications
+1. Afnan Azizi, Anne Herrmann, Yinan Wan, <b>Salvador Buse</b>, Phillipp J Keller, Raymond Goldstein, and William A Harris. (2020). "Nuclear crowding and nonlinear diffusion during interkinetic nuclear migration in the zebrafish retina". <i>eLife</i>. DOI: <a href="https://elifesciences.org/articles/58635">10.7554/eLife.58635</a>. <a href="https://elifesciences.org/articles/58635">Open Access PDF</a>
 
 ## Research Experience
 
