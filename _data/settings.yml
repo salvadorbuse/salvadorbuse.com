@@ -6,6 +6,7 @@ menu:
 - {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'About', url: 'pages/about.html'}
 - {name: 'CV', url: 'pages/cv.html'}
+- {name: 'Blog', folder: 'proj-1', file: 'projects/proj-1.html'}
 #- {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
