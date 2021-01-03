@@ -1,9 +1,9 @@
 ---
 layout: post2
-title: "More Jekyll Themes!t6"
+title: "More Jekyll Themes!t7"
 ---
 
-#### Lagrange
+# Lagrange
 
 Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
 
