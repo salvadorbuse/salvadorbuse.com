@@ -6,7 +6,7 @@ menu:
 - {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'About', url: 'pages/about.html'}
 - {name: 'CV', url: 'pages/cv.html'}
-- {name: 'CVt', url: 'pages/cv.html'}
+- {name: 'CVt2', url: 'pages/cv2.html'}
 #- {name: 'P1', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'CV', file: 'projects/cv.md', url: 'cv.html'}
 - {name: 'CV', folder: 'proj-1', file: 'projects/cv.md', url: 'projects/cv.html'}
