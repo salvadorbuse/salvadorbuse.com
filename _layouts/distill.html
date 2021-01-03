@@ -52,36 +52,21 @@ layout: default
   }</script>
 </d-front-matter>
 
-<body>
-
-  <!--{% include header.html %}-->
-
-  <!-- Content -->
-
-  <div class="work container">
-
-    <d-title>
-      <h1>{{ page.title }}</h1>
-      <p>{{ page.description }}</p>
-    </d-title>
-
-    <d-byline></d-byline>
-
-    <d-article>
-      {{ content }}
-    </d-article>
-
-    <d-appendix>
-      <d-footnote-list></d-footnote-list>
-      <d-citation-list></d-citation-list>
-    </d-appendix>
-
+<section>
+  <div class="work-container">
+    <h2 class="project-title">{{ page.title }}</h2>
+    <p class="project-title">{{ page.description }}</p>
+    <div class="project-load">{{ content }}</div>
   </div>
+  <d-byline></d-byline>
 
-  <!-- Footer -->
+  <d-appendix>
+    <d-footnote-list></d-footnote-list>
+    <d-citation-list></d-citation-list>
+  </d-appendix>
   {% if site.data.settings.disqus.comments %}
     {% include disqus.html %}
   {% endif %}
-  {% include footer.html %}
+</section>
+{% include footer.html %}
 
-</body>
