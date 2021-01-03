@@ -1,7 +1,6 @@
 ---
-layout: distill
-title: "More Jekyll Themes!t3"
-description: "Can this finally work please"
+layout: post
+title: "More Jekyll Themes!t4"
 ---
 
 #### Lagrange
