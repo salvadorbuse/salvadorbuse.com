@@ -45,8 +45,8 @@ disqus:
 # Work Section
 
 projects:
-- {name: 'Blog', folder: 'blog', file: 'blog.html'}
-- {name: 'About', folder: 'about', file: 'about.html'}
+- {name: 'Blog', folder: 'blog', file: 'blog/'}
+- {name: 'About', folder: 'about', file: 'about/'}
 - {name: 'CV', folder: 'cv', file: 'cv.html'}
 - {name: 'Favourites', folder: 'favourites', file: 'pages/favourites.html'}
 - {name: 'Gallery', folder: 'gallery', file: 'pages/gallery.html'}
