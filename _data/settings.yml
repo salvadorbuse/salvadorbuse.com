@@ -6,6 +6,7 @@ menu:
 - {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'About', url: 'pages/about.html'}
 - {name: 'CV', url: 'pages/cv.html'}
+- {name: 'CVt2', url: 'pages/cv2.html'}
 - {name: 'CVt3', url: 'pages/cv3.html'}
 #- {name: 'P1', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'CV', file: 'projects/cv.md', url: 'cv.html'}
@@ -62,6 +63,13 @@ about: >
   ## Acknowledgements
   
   ...
+  
+cv: >
+  ## About
+  
+  ## Contact
+
+  I'm Salvador, and this is my personal website. You may contact me [through my email](mailto:salvador.buse@gmail.com)
 
 #-------------------------------
 # Work Section
