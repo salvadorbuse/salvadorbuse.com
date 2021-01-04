@@ -7,17 +7,14 @@
     <div class="social-media">
       <nav>
         {% for item in site.data.settings.social %}
-          <a href="{{ item.link }}" target="_blank"><i class="fab fa-{{ item.icon }}" aria-hidden="true"></i></a>
-        {% endfor %}
-        <!--{% for item in site.data.settings.social %}
           {% if item.icon == "envelope" %}
             <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-          {% elseif item.icon == "linkedin" %}
+          {% elsif item.icon == "linkedin" %}
             <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
           {% else %}
             <a href="{{ item.link }}" target="_blank"><i class="fab fa-{{ item.icon }}" aria-hidden="true"></i></a>
           {% endif %}
-        {% endfor %}-->
+        {% endfor %}
         <p style = "text-align: center;">
           <b>© 2021, Salvador Buse</b> 
           <!--<a href="https://jekyllthemes.io">Jekyll Themes</a>-->
