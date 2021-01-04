@@ -56,8 +56,8 @@ projects:
 #-------------------------------
 # Contact Section
 #{% assign author_email = {{ site.author_email }} %}
-{% assign author_email = site.author_email %}
-#author_email: {{ site.author_email }}
+#{% assign author_email = site.author_email %}
+author_email: {{ site.author_email }}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/SalvadorBuse'}
