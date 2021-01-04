@@ -1,4 +1,5 @@
 <footer>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
   <div class="footer-wrap">
     <div class="footer-tagline">
       <p>{{ site.data.settings.footer }}</p>
@@ -8,6 +9,7 @@
         {% for item in site.data.settings.social %}
           <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
         {% endfor %}
+        <i class="fab fa-orcid" href="{{ site.data.settings.orcid.link }}"></i>
         <!--<i class="fab fa-orcid"></i>-->
         <p style = "text-align: center;">
           <b>© 2021, Salvador Buse</b> 
