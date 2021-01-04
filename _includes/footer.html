@@ -7,7 +7,11 @@
     <div class="social-media">
       <nav>
         {% for item in site.data.settings.social %}
-          <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+          {% if item.icon != "orcid" %}
+            <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
+          {% else %}
+            <a href="{{ item.link }}" target="_blank"><i class="fab fa-orcid" aria-hidden="true"></i></a>
+          {% endif %}
         {% endfor %}
         <!--{% for item in site.data.settings.orcid %}
           <a href="{{ item.link }}" target="_blank"><i class="fab fa-orcid" aria-hidden="true"></i></a>
