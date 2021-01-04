@@ -57,14 +57,14 @@ projects:
 # Contact Section
 #{% assign author_email = {{ site.author_email }} %}
 #{% assign author_email = site.author_email %}
-author_email: {{ site.author_email }}
+#author_email: {{ site.author_email }}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/SalvadorBuse'}
 #- {icon: 'instagram', link: '#'}
 - {icon: 'github', link: 'https://github.com/salvadorbuse'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/salvadorbuse/'}
-#- {icon: 'envelope', link: 'mailto:salvador.buse@gmail.com'}
-- {icon: 'envelope', link: {{author_email}}}
+- {icon: 'envelope', link: 'mailto:sbuse@caltech.edu'}
+#- {icon: 'envelope', link: {{author_email}}}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
