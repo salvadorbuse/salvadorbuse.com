@@ -6,6 +6,7 @@ menu:
 - {name: 'About', url: 'about/'}
 - {name: 'Blog', url: 'blog/'}
 - {name: 'CV', url: 'cv/'}
+- {name: 'Projects', url: 'projects/'}
 #- {name: 'CVt2', url: 'pages/cv2.html'}
 #- {name: 'P1', folder: 'proj-1', file: 'projects/proj-1.html'}
 #- {name: 'CV', file: 'projects/cv.md', url: 'cv.html'}
@@ -48,6 +49,7 @@ homepages:
 - {name: 'About', folder: 'about', file: 'about/'}
 - {name: 'Blog', folder: 'blog', file: 'blog/'}
 - {name: 'CV', folder: 'cv', file: 'cv/'}
+- {name: 'Projects', folder: 'projects', file: 'projects/'}
 - {name: 'Favourites', folder: 'favourites', file: 'favourites/'}
 - {name: 'Photo Gallery', folder: 'gallery', file: 'albums/'}
 #- {name: 'Gallery', folder: 'gallery', file: 'pages/gallery.html'}

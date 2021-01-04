@@ -1,0 +1,9 @@
+#-------------------------------
+# Projects Section
+
+projects:
+- {name: 'Winfree Rotation 2020-21', folder: '2020_winfree_rotation', file: 'winfree_rotation/'}
+#- {name: 'Concerts', folder: 'concerts', file: 'concerts/'}
+#- {name: 'Travel', folder: 'travel', file: 'travel/'}
+#- {name: 'Gallery', folder: 'gallery', file: 'gallery/'}
+#- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
