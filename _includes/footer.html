@@ -1,5 +1,5 @@
 <footer>
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" crossorigin="anonymous">
   <div class="footer-wrap">
     <div class="footer-tagline">
       <p>{{ site.data.settings.footer }}</p>
@@ -7,10 +7,10 @@
     <div class="social-media">
       <nav>
         {% for item in site.data.settings.social %}
-          {% if item.icon != "orcid" %}
+          {% if item.icon != "envelope" %}
             <a href="{{ item.link }}" target="_blank"><i class="fab fa-{{ item.icon }}" aria-hidden="true"></i></a>
           {% else %}
-            <a href="{{ item.link }}" target="_blank"><i class="fab fa-orcid" aria-hidden="false"></i></a>
+            <a href="{{ item.link }}" target="_blank"><i class="fa fa-envelope" aria-hidden="false"></i></a>
           {% endif %}
         {% endfor %}
         <!--{% for item in site.data.settings.orcid %}
