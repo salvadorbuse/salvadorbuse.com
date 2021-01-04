@@ -7,6 +7,13 @@
     <div class="social-media">
       <nav>
         {% for item in site.data.settings.social %}
+          {% if item.icon != "envelope" %}
+            <a href="{{ item.link }}" target="_blank"><i class="fab fa-{{ item.icon }}" aria-hidden="true"></i></a>
+          {% else %}
+            <a href="{{ item.link }}" target="_blank"><i class="fa fa-envelope" aria-hidden="false"></i></a>
+          {% endif %}
+        {% endfor %}
+        <!--{% for item in site.data.settings.social %}
           {% if item.icon == "envelope" %}
             <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
           {% elseif item.icon == "linkedin" %}
@@ -14,11 +21,7 @@
           {% else %}
             <a href="{{ item.link }}" target="_blank"><i class="fab fa-{{ item.icon }}" aria-hidden="true"></i></a>
           {% endif %}
-        {% endfor %}
-        <!--{% for item in site.data.settings.orcid %}
-          <a href="{{ item.link }}" target="_blank"><i class="fab fa-orcid" aria-hidden="true"></i></a>
-        {% endfor %}
-        <i class="fab fa-orcid"></i>-->
+        {% endfor %}-->
         <p style = "text-align: center;">
           <b>© 2021, Salvador Buse</b> 
           <!--<a href="https://jekyllthemes.io">Jekyll Themes</a>-->
