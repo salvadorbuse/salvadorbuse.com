@@ -14,4 +14,5 @@ sass:
 
 title:		           "Salvador Buse"
 description:	       "Salvador's Website, Powered by Jekyll and GitHub Pages"
-author:              "Salvador Buse"
+author:                "Salvador Buse"
+author_email:          "mailto:sbuse@caltech.edu"
