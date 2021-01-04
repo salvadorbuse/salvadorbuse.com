@@ -1,11 +1,9 @@
 #-------------------------------
-# Work Section
+# Albums Section
 
-projects:
-- {name: 'Blog', folder: 'blog', file: 'blog/'}
-- {name: 'About', folder: 'about', file: 'about/'}
-- {name: 'CV', folder: 'cv', file: 'cv/'}
-- {name: 'Favourites', folder: 'favourites', file: 'favourites/'}
-- {name: 'Gallery', folder: 'gallery', file: 'gallery/'}
-#- {name: 'Gallery', folder: 'gallery', file: 'pages/gallery.html'}
+albums:
+- {name: 'Monty', folder: 'monty', file: 'monty/'}
+- {name: 'Concerts', folder: 'concerts', file: 'concerts/'}
+- {name: 'Travel', folder: 'travel', file: 'travel/'}
+#- {name: 'Gallery', folder: 'gallery', file: 'gallery/'}
 #- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
