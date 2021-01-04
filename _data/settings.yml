@@ -68,3 +68,6 @@ social:
 #- {icon: 'envelope', link: {{author_email}}}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
+
+orcid:
+- {link: "test"}
