@@ -1,6 +1,6 @@
 ---
 layout: about
-title: "Bio"
+title: "About"
 permalink: /about/
 ---
 #### Profile Photo
