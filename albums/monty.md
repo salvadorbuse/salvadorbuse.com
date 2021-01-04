@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: album
 title: 'Monty'
 permalink: /albums/monty/
 ---
-[//]: # (<img style="display: block; margin: auto;" src="https://salvadorbuse.github.io//microtubule_website/assets/img/abstractfigure.jpg">)
+[//]: # (<img style="display: block; margin: auto;" src="...">)
 
-[//]: # (<style>
+<!--<style>
 * {
   box-sizing: border-box;
 }
@@ -31,10 +31,9 @@ permalink: /albums/monty/
     <div class="column2">
         <img src="..." style="display: block; margin: auto; width:100%;">
     </div>
-</div>
+</div>-->
 
+{% include plainimage.html image="albums/monty/snow.jpeg" %}
 <p style = "text-align: center;">
     <b>Title</b> Description.
 </p>)
-
-{% include plainimage.html image="albums/monty/snow.jpeg" %}

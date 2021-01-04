@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: album
 title: 'Travel'
 permalink: /albums/travel/
 ---
