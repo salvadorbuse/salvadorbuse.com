@@ -1,7 +1,7 @@
 <section>
   <div class="thumb-container">
     {% for album in site.data.gallery.albums %}
-      <a href="{{ site.github.url }}/gallery/{{ album.file }}">
+      <a href="{{ site.github.url }}/albums/{{ album.file }}">
         <div class="thumb-unit" data-folder="{{ site.github.url }}/albums/{{ album.folder }}" style="background-image: url({{ site.github.url }}/assets/img/albums/{{ album.folder }}/thumb.jpg)">
           <div class="thumb-overlay">
             <strong>{{ album.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>

@@ -2,8 +2,8 @@
 # Albums Section
 
 albums:
-- {name: 'Monty', folder: 'monty', file: 'albums/monty/'}
-- {name: 'Concerts', folder: 'concerts', file: 'albums/concerts/'}
-- {name: 'Travel', folder: 'travel', file: 'albums/travel/'}
+- {name: 'Monty', folder: 'monty', file: 'monty/'}
+- {name: 'Concerts', folder: 'concerts', file: 'concerts/'}
+- {name: 'Travel', folder: 'travel', file: 'travel/'}
 #- {name: 'Gallery', folder: 'gallery', file: 'gallery/'}
 #- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
