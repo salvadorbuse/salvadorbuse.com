@@ -9,7 +9,7 @@
         {% for item in site.data.settings.social %}
           {% if item.icon == "envelope" %}
             <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-          {% if item.icon == "linkedin" %}
+          {% elseif item.icon == "linkedin" %}
             <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
           {% else %}
             <a href="{{ item.link }}" target="_blank"><i class="fab fa-{{ item.icon }}" aria-hidden="true"></i></a>
