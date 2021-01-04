@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Gallery"
-permalink: /gallery/
+permalink: /albums/
 ---
 
 {% include albums.html %}
