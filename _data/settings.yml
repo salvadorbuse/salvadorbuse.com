@@ -49,7 +49,7 @@ projects:
 - {name: 'About', folder: 'about', file: 'about/'}
 - {name: 'CV', folder: 'cv', file: 'cv/'}
 - {name: 'Favourites', folder: 'favourites', file: 'favourites/'}
-- {name: 'Gallery', folder: 'gallery', file: 'gallery/'}
+- {name: 'Photo Gallery', folder: 'gallery', file: 'albums/'}
 #- {name: 'Gallery', folder: 'gallery', file: 'pages/gallery.html'}
 #- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
 
