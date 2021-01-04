@@ -35,5 +35,5 @@ permalink: /albums/monty/
 
 {% include plainimage.html image="albums/monty/snow.jpeg" %}
 <p style = "text-align: center;">
-    <b>Title</b> Description.
-</p>)
+    <b>Title.</b> Description.
+</p>
