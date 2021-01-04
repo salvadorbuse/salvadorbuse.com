@@ -63,11 +63,10 @@ homepages:
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/SalvadorBuse'}
-#- {icon: 'instagram', link: '#'}
 - {icon: 'github', link: 'https://github.com/salvadorbuse'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/salvadorbuse/'}
-- {icon: 'envelope', link: 'mailto:sbuse@caltech.edu'}
 - {icon: "orcid", link: "https://orcid.org/0000-0002-3261-5339"}
+- {icon: 'envelope', link: 'mailto:sbuse@caltech.edu'}
 #- {icon: 'envelope', link: {{author_email}}}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
