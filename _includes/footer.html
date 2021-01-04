@@ -7,10 +7,10 @@
     <div class="social-media">
       <nav>
         {% for item in site.data.settings.social %}
-          {% if item.icon != "envelope" %}
+          {% if item.icon == "orcid" %}
             <a href="{{ item.link }}" target="_blank"><i class="fab fa-{{ item.icon }}" aria-hidden="true"></i></a>
           {% else %}
-            <a href="{{ item.link }}" target="_blank"><i class="fa fa-envelope" aria-hidden="false"></i></a>
+            <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="false"></i></a>
           {% endif %}
         {% endfor %}
         <!--{% for item in site.data.settings.social %}
