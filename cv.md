@@ -14,7 +14,7 @@ permalink: /cv/
 
 #### University of Cambridge, Trinity College
 **MSci in Natural Sciences (Systems Biology)**, *Oct 2019 - Jul 2020*
-* Thesis project: studying [Syn61](https://doi.org/10.1038/s41586-019-1192-5), a synthetic *E. coli* strain, with [Prof. Jason Chin](https://www2.mrc-lmb.cam.ac.uk/group-leaders/a-to-g/jason-chin/)
+* Thesis project: studying [Syn61](https://doi.org/10.1038/s41586-019-1192-5), a synthetic *E. coli* strain, with [Jason Chin](https://www2.mrc-lmb.cam.ac.uk/group-leaders/a-to-g/jason-chin/)
 * Courses in mathematical modelling, biological networks, and synthetic and [executable biology](https://doi.org/10.1038/nbt1356)
 
 **BA in Natural Sciences (Chemistry)** , *Oct 2016 - Jul 2019*
