@@ -39,6 +39,7 @@ permalink: /albums/monty/
 ---
 
 [//]: # (<img style="display: block; margin: auto;" src="...">)
+[//]: # ({% include image.html url="https://www.pixiesmusic.com/" text="Pixies"  image="albums/concerts/pixies.jpeg" %})
 
 <!--<style>
 * {
