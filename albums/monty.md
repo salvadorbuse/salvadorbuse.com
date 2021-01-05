@@ -3,6 +3,11 @@ layout: album
 title: 'Monty'
 permalink: /albums/monty/
 ---
+{% include plainimage.html image="albums/monty/snow.jpeg" %}
+<p style = "text-align: center;">
+    <b>In the snow. </b><i>Cambridge, December 2017.</i>
+</p>
+
 [//]: # (<img style="display: block; margin: auto;" src="...">)
 
 <!--<style>
@@ -32,8 +37,3 @@ permalink: /albums/monty/
         <img src="..." style="display: block; margin: auto; width:100%;">
     </div>
 </div>-->
-
-{% include plainimage.html image="albums/monty/snow.jpeg" %}
-<p style = "text-align: center;">
-    <b>Title.</b> Description.
-</p>
