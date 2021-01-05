@@ -15,6 +15,9 @@ You can write to me at [my email]({{ site.author_email }}).
 * This site is written in html and [sass](https://sass-lang.com/), and is built with [Jekyll](https://jekyllrb.com/). It is hosted on [GitHub Pages](https://pages.github.com/).
 * I first found the site's theme on [Jekyll Themes](https://jekyllthemes.io/), and have since added quite a few personal touches. The original theme was written by [Paul N Le](https://github.com/LeNPaul), who kindly put his work into the public domain using the [Unlicense](https://unlicense.org/). The font is [Roboto](https://fonts.google.com/specimen/Roboto).
 
+
+
+
 {% include plainimage.html image="general/profile_2.jpeg" %}
 <p style = "text-align: center;">
     <b>In the rainforest. </b><i>Madagascar, 2017.</i>
