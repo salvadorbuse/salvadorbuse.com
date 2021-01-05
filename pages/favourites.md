@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Links and Recommendations"
+title: "Links and Favourites"
 permalink: /favourites/
 ---
 #### Table of Contents
