@@ -17,5 +17,5 @@ You can write to me at [my email]({{ site.author_email }}).
 
 {% include plainimage.html image="general/profile_2.jpeg" %}
 <p style = "text-align: center;">
-    <b>In the rainforest.</b><i>Madagascar, 2017.</i>
+    <b>In the rainforest. </b><i>Madagascar, 2017.</i>
 </p>
