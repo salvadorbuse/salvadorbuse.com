@@ -12,8 +12,8 @@ puzzles and crosswords, and represented Trinity in the Cambridge College Quiz. I
 You can write to me at [my email]({{ site.author_email }}).
 
 ## Colophon
-* This static site is written in html and [sass](https://sass-lang.com/), and is built with [Jekyll](https://jekyllrb.com/). It is hosted on [GitHub Pages](https://pages.github.com/).
-* I have added quite a few personal touches to the theme of this site, which I first found on [Jekyll Themes](https://jekyllthemes.io/). The original theme of this site was written by [Paul N Le](https://github.com/LeNPaul), who kindly put his work into the public domain using the [Unlicense](https://unlicense.org/). The font is [Roboto](https://fonts.google.com/specimen/Roboto).
+* This site is written in html and [sass](https://sass-lang.com/), and is built with [Jekyll](https://jekyllrb.com/). It is hosted on [GitHub Pages](https://pages.github.com/).
+* I have added quite a few personal touches to the theme, which I first found on [Jekyll Themes](https://jekyllthemes.io/). The original theme was written by [Paul N Le](https://github.com/LeNPaul), who kindly put his work into the public domain using the [Unlicense](https://unlicense.org/). The font is [Roboto](https://fonts.google.com/specimen/Roboto).
 
 {% include plainimage.html image="general/profile_2.jpeg" %}
 <p style = "text-align: center;">
