@@ -35,7 +35,7 @@ permalink: /cv/
 *  To enable bacteria to make proteins containing up to three unnatural amino acids, the Chin lab built ’Syn61’, an E. coli strain whose genome uses only 61 of 64 codons, and is the largest synthesised to date. This works by ’recoding’: synonymously replacing all instances of three codons. I found that Syn61 still contains some recoded codons, and and studied their implications for Syn61 and future recoded genomes.
 
 **Medical Research Council Summer Student, [Jason Chin Lab](https://www2.mrc-lmb.cam.ac.uk/group-leaders/a-to-g/jason-chin/)**, *Jun 2019 - Sep 2019*
-*  In Syn61, recoded codons are ‘blank’: they do not encode natural amino acids, so can be assigned to unnatural amino acids. First, however, the tRNAs recognising recoded codons must be removed. I deleted those tRNAs and found the new Syn61 strain to be viable, but less fit
+*  In Syn61, recoded codons are ‘blank’: they do not encode natural amino acids, so can be assigned to unnatural amino acids. First, however, the tRNAs recognising recoded codons must be removed. I deleted those tRNAs and found the new Syn61 strain to be viable, but less fit.
 
 #### Stanford University, Department of Chemical and Systems Biology
 **Summer Research Intern, [Jim Ferrell Lab](https://web.stanford.edu/group/ferrelllab/)**, *Jun 2018 - Aug 2018*
@@ -48,7 +48,7 @@ permalink: /cv/
 ## Leadership
 #### Cambridge University Scientific Society, [SciSoc](http://scisoc.com/)
 **Co-President**, *Mar 2018 - Mar 2019*
-* I arranged a weekly lecture series of 15 leading scientists, and co‑chaired a research internships event. I helped to renew our relationship with Oxford’s Science Society, and jointly arranged a formal dinner in Cambridge and a field trip to the London Natural History Museum. I did this together with my co-president, [Charlene](https://www.linkedin.com/in/charleneostang/)
+* I arranged a weekly lecture series of 15 leading scientists, and co‑chaired a research internships event. I helped to renew our relationship with Oxford’s Science Society, and jointly arranged a formal dinner in Cambridge and a field trip to the London Natural History Museum. I did this together with my co-president, [Charlene](https://www.linkedin.com/in/charleneostang/).
 
 #### Trinity College Science Society, [TCSS](https://tcss.soc.srcf.net/)
 **President**, *Mar 2017 - Mar 2018*
