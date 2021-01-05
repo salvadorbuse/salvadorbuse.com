@@ -26,14 +26,14 @@ permalink: /albums/monty/
 
 {% include plainimage.html image="albums/monty/couch.jpeg" %}
 <p style = "text-align: center;">
-    <b>Resting</b> <i>Cambrdge, September 2020.</i>
+    <b>Resting.</b> <i>Cambrdge, September 2020.</i>
 </p>
 
 ---
 
 {% include plainimage.html image="albums/monty/big_bird.jpeg" %}
 <p style = "text-align: center;">
-    <b>With Big Bird</b> <i>Cambrdge, September 2020.</i>
+    <b>With Big Bird.</b> <i>Cambrdge, September 2020.</i>
 </p>
 
 ---
