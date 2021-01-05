@@ -36,6 +36,8 @@ permalink: /albums/monty/
     <b>With Big Bird</b> <i>Cambrdge, September 2020.</i>
 </p>
 
+---
+
 [//]: # (<img style="display: block; margin: auto;" src="...">)
 
 <!--<style>
