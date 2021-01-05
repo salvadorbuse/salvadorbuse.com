@@ -7,7 +7,7 @@ permalink: /favourites/
 1. [Example](#example)
 2. [Example2](#example2)
 
-#### Example <a name="introduction"></a>
+#### Example <a name="example"></a>
 
 #### Example2
 
