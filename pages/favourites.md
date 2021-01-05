@@ -11,34 +11,8 @@ permalink: /favourites/
 5. [Music](#music)
 
 #### Blogs, Newsletters, and Websites <a name="sites"></a>
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 #### Podcasts and YouTube Channels <a name="podcasts"></a>
 
 #### Articles <a name="articles"></a>
