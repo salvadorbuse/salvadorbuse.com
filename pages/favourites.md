@@ -4,10 +4,16 @@ title: "Favourites"
 permalink: /favourites/
 ---
 #### Table of Contents
-1. [Example](#example)
-2. [Example2](#example2)
+1. [Blogs, Newsletters, and Websites](#sites)
+2. [Podcasts and YouTube Channels](#podcasts)
+3. [Articles](#articles)
+4. [Films](#cinema)
 
-#### Example <a name="example"></a>
+#### Blogs, Newsletters, and Websites <a name="sites"></a>
 
-#### Example2
+#### Podcasts and YouTube Channels <a name="podcasts"></a>
+
+#### Articles <a name="articles"></a>
+
+#### Films <a name="cinema"></a>
 
