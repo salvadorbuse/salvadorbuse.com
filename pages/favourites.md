@@ -6,5 +6,5 @@ permalink: /favourites/
 #### Table of Contents
 1. [Example] (#example)
 
-#### Example
-Intentional mizzpelling 
+#### Example <a name="introduction"></a>
+
