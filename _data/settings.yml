@@ -50,7 +50,7 @@ homepages:
 - {name: 'Blog', folder: 'blog', file: 'blog/'}
 - {name: 'CV', folder: 'cv', file: 'cv/'}
 - {name: 'Projects', folder: 'projects', file: 'projects/'}
-- {name: 'Recommendations and Favourites', folder: 'favourites', file: 'favourites/'}
+- {name: 'Links and Recommendations', folder: 'favourites', file: 'favourites/'}
 - {name: 'Photo Gallery', folder: 'gallery', file: 'albums/'}
 #- {name: 'Gallery', folder: 'gallery', file: 'pages/gallery.html'}
 #- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
