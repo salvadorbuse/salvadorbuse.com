@@ -52,4 +52,4 @@ permalink: /cv/
 
 #### Trinity College Science Society, [TCSS](https://tcss.soc.srcf.net/)
 **President**, *Mar 2017 - Mar 2018*
-* I arranged a weekly lecture series of 17 pre‑eminent scientists, which was near gender‑balanced andfeatured Sir Paul Nurse & Dame Ottoline Leyser. I also organised a research internships event, which now occurs annually, and a symposium showcasing research at Trinity.
+* I arranged a weekly lecture series of 17 pre‑eminent scientists, which featured Sir Paul Nurse & Dame Ottoline Leyser. I also organised a research internships event, which now occurs annually, and a symposium showcasing research at Trinity.
