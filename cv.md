@@ -9,7 +9,7 @@ permalink: /cv/
 ## Education
 #### California Institute of Technology (Caltech)
 **PhD in Bioengineering**, *Sep 2020 -*
-* Currently rotating with [Erik Winfree](https://www.dna.caltech.edu/), researching pattern formation in cellular automata
+* Working with [Erik Winfree](https://www.dna.caltech.edu/), researching pattern formation in biochemical neural networks
 * G1 courses: data analysis and statistical inference in Python, biomolecular computation, mathematical biology
 
 #### University of Cambridge, Trinity College
