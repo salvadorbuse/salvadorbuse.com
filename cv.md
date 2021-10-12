@@ -10,7 +10,8 @@ permalink: /cv/
 #### California Institute of Technology (Caltech)
 **PhD in Bioengineering**, *Sep 2020 -*
 * Working with [Erik Winfree](https://www.dna.caltech.edu/), researching pattern formation in biochemical neural networks
-* G1 courses: data analysis and statistical inference in Python, biomolecular computation, mathematical biology
+* G1 courses: data analysis and Bayesian inference in Python, biomolecular computation, mathematical biology
+* G2 courses: theory of machine learning, networks of relations, probability theory and stochastic processes
 
 #### University of Cambridge, Trinity College
 **MSci in Natural Sciences (Systems Biology)**, *Oct 2019 - Jul 2020*
@@ -25,14 +26,16 @@ permalink: /cv/
 #### Peer-reviewed Publications
 1. Afnan Azizi, Anne Herrmann, Yinan Wan, **Salvador Buse**, Philipp J Keller, Raymond Goldstein, and William A Harris. (2020). "Nuclear crowding and nonlinear diffusion during interkinetic nuclear migration in the zebrafish retina". *eLife*. DOI: [10.7554/eLife.58635]("https://elifesciences.org/articles/58635"). [Open Access PDF]("https://elifesciences.org/articles/58635").
 
+2. Wesley Robertson, Louise Funke, Daniel de la Torre, Julius Fredens, Thomas Elliott, Martin Spinck, Yonka Christova, Daniele Cervettini, Franz Böge, Kim Liu, **Salvador Buse**, Sarah Maslen, George Salmond, Jason Chin. (2021). "Sense codon reassignment enables viral resistanceand encoded polymer synthesis". *Science*. DOI: [10.1126/science.abg3029]("https://www.science.org/doi/full/10.1126/science.abg3029").
+
 ## Research Experience
 #### California Institute of Technology (Caltech)
 **PhD Rotation Student, [Erik Winfree Lab](https://www.dna.caltech.edu/)**, *Sep 2020 -*
-* Researching pattern formation and morphogenesis in cellular automata. Currently working remotely from Cambridge, UK.
+* Researching pattern formation and morphogenesis in cellular automata and chemical reaction diffusion systems.
 
 #### Laboratory of Molecular Biology
 **Master's Thesis Student, [Jason Chin Lab](https://www2.mrc-lmb.cam.ac.uk/group-leaders/a-to-g/jason-chin/)**, *Nov 2019 - Apr 2020*
-*  To enable bacteria to make proteins containing up to three unnatural amino acids, the Chin lab built ’Syn61’, an E. coli strain whose genome uses only 61 of 64 codons, and is the largest synthesised to date. This works by ’recoding’: synonymously replacing all instances of three codons. I found that Syn61 still contains some recoded codons, and and studied their implications for Syn61 and future recoded genomes.
+*  To enable bacteria to make proteins containing up to three unnatural amino acids, the Chin lab built ’Syn61’, an *E. coli* strain whose genome uses only 61 of 64 codons, and is the largest synthesised to date. This works by ’recoding’: synonymously replacing all instances of three codons. I found that Syn61 still contains some recoded codons, and and studied their implications for Syn61 and future recoded genomes.
 
 **Medical Research Council Summer Student, [Jason Chin Lab](https://www2.mrc-lmb.cam.ac.uk/group-leaders/a-to-g/jason-chin/)**, *Jun 2019 - Sep 2019*
 *  In Syn61, recoded codons are ‘blank’: they do not encode natural amino acids, so can be assigned to unnatural amino acids. First, however, the tRNAs recognising recoded codons must be removed. I deleted those tRNAs and found the new Syn61 strain to be viable, but less fit.
