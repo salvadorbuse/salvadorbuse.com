@@ -19,4 +19,5 @@ permalink: /favourites/
 #### Films <a name="cinema"></a>
 
 #### Music <a name="music"></a>
+Most of my favourite music can be found on my [Spotify profile](https://open.spotify.com/user/salvador.buse) and [YouTube](https://youtube.com/playlist?list=PLPHPCWozhDfSJrjBZGDp9DdSMRB_Gtq1d) [playlists](https://youtube.com/playlist?list=PLPHPCWozhDfQEn18EoQj6-GXq8NeMnBYE).
 
