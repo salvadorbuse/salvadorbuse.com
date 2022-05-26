@@ -11,7 +11,7 @@ permalink: /cv/
 **PhD in Bioengineering**, *Sep 2020 -*
 * Working with [Erik Winfree](https://www.dna.caltech.edu/), researching pattern formation in biochemical neural networks
 * G1 courses: data analysis and Bayesian inference in Python, biomolecular computation, mathematical biology
-* G2 courses: theory of machine learning, networks of relations, probability theory and stochastic processes
+* G2 courses: theory of machine learning, networks of relations, probability theory and stochastic processes, physical cell biology, DNA-based neural networks
 
 #### University of Cambridge, Trinity College
 **MSci in Natural Sciences (Systems Biology)**, *Oct 2019 - Jul 2020*
@@ -30,7 +30,7 @@ permalink: /cv/
 
 ## Research Experience
 #### California Institute of Technology (Caltech)
-**PhD Rotation Student, [Erik Winfree Lab](https://www.dna.caltech.edu/)**, *Sep 2020 -*
+**PhD Student, [Erik Winfree Lab](https://www.dna.caltech.edu/)**, *Sep 2020 -*
 * Researching pattern formation and morphogenesis in cellular automata and chemical reaction diffusion systems.
 
 #### Laboratory of Molecular Biology
