@@ -187,9 +187,10 @@ I am tired of hearing people say that there is no good current rock music -- the
 
 #### Podcasts and YouTube Channels
 
+##### Podcasts
+
 (Note: these are all links to Apple Podcasts)
 
-##### Podcasts
 * [80,000 Hours](https://podcasts.apple.com/us/podcast/80-000-hours-podcast-with-rob-wiblin/id1245002988) (Rob Wiblin interviews guests about effective altruism and their effective careers)
 * [A History of the World in 100 Objects](https://podcasts.apple.com/us/podcast/a-history-of-the-world-in-100-objects/id351096296) (BBC, what it says on the tin)
 * [The Argument](https://podcasts.apple.com/us/podcast/the-argument/id1438024613) (NYT, mainly arguments about culture-war issues)
