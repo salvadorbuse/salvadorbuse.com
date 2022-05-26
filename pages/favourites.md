@@ -36,7 +36,7 @@ permalink: /favourites/
 
 #### Blogs, Newsletters, and Websites
 
-* [Alexey Guzey](https://guzey.com). A brilliant writer, became known for [deconstructing](https://guzey.com/books/why-we-sleep/) Matt Walker's *Why We Sleep*. Interesting in science funding, runs [New Science](https://newscience.org).
+* [Alexey Guzey](https://guzey.com). A brilliant writer, became known for [deconstructing](https://guzey.com/books/why-we-sleep/) Matt Walker's *Why We Sleep*. Interested in science funding, runs [New Science](https://newscience.org).
 * [Alignment Forum](https://www.alignmentforum.org). Home for AI safety and alignment content.
 * [Andrew Gelman](https://statmodeling.stat.columbia.edu). Stats professor at Columbia, an expert in Bayesian modelling and abuse of statistics.
 * [Astral Codex Ten](https://astralcodexten.substack.com). The new incarnation of [Slate Star Codex]().
