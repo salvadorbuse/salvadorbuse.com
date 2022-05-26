@@ -27,7 +27,7 @@ permalink: /albums/concerts/
 </p>
 
 ---
-{% include plainimage.html image="albums/concerts/202110_sleighbells_teragram4.jpeg.jpg" %}
+{% include plainimage.html image="albums/concerts/202110_sleighbells_teragram4.jpeg" %}
 <p style = "text-align: center;">
     <b>Sleigh Bells.</b> <i>Teragram Ballroom, October 2021.</i>
 </p>
