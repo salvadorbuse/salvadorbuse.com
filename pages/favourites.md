@@ -7,7 +7,7 @@ permalink: /favourites/
 1. [Essays](#essays)
 2. [Scientific Articles](#articles)
 3. [Books (Nonfiction)](#nonfiction)
-4. [Books (Fiction)](#nonfiction)
+4. [Books (Fiction)](#fiction)
 5. [Blogs, Newsletters, and Websites](#sites)
 6. [Music](#music)
 7. [Podcasts and YouTube Channels](#podcasts)
@@ -18,9 +18,9 @@ permalink: /favourites/
 
 #### Essays
 
-<a name="articles"></a>
-
 * [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/), by George Orwell. 
+
+<a name="articles"></a>
 
 #### Scientific Articles
 
@@ -186,6 +186,9 @@ I am tired of hearing people say that there is no good current rock music -- the
 <a name="podcasts"></a>
 
 #### Podcasts and YouTube Channels
+
+(Note: these are all links to Apple Podcasts)
+
 ##### Podcasts
 * [80,000 Hours](https://podcasts.apple.com/us/podcast/80-000-hours-podcast-with-rob-wiblin/id1245002988) (Rob Wiblin interviews guests about effective altruism and their effective careers)
 * [A History of the World in 100 Objects](https://podcasts.apple.com/us/podcast/a-history-of-the-world-in-100-objects/id351096296) (BBC, what it says on the tin)
