@@ -45,7 +45,7 @@ permalink: /albums/caltech/
 </p>
 
 ---
-{% include plainimage.html image="albums/caltech/202201_joshuaTree.jpeg" %}
+{% include plainimage.html image="albums/caltech/202201_joshuaTree.jpg" %}
 <p style = "text-align: center;">
     <b>Hiking in Joshua Tree.</b> <i>Joshua Tree, January 2022.</i>
 </p>
