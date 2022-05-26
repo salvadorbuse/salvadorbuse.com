@@ -80,8 +80,8 @@ I am quite passionate about music (listening to it, I can't really play any), an
 * [Heaven or Las Vegas](https://en.wikipedia.org/wiki/Heaven_or_Las_Vegas), by *Cocteau Twins*
 * [Jane Doe](https://en.wikipedia.org/wiki/Jane_Doe_(album)), by *Converge*
 * [You Won't Get What You Want](https://en.wikipedia.org/wiki/You_Won't_Get_What_You_Want), by *Daughters*
-* [The Rise and Fall of Ziggy Stardust and the Spiders from Mars](), by *David Bowie*
-* [3 Feet High and Rising](https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_Ziggy_Stardust_and_the_Spiders_from_Mars), by *De La Soul*
+* [The Rise and Fall of Ziggy Stardust and the Spiders from Mars](https://en.wikipedia.org/wiki/You_Won't_Get_What_You_Want), by *David Bowie*
+* [3 Feet High and Rising](https://en.wikipedia.org/wiki/3_Feet_High_and_Rising), by *De La Soul*
 * [Sunbather](https://en.wikipedia.org/wiki/Sunbather_(album)), by *Deafheaven*
 * [Exmilitary](https://en.wikipedia.org/wiki/Exmilitary), by *Death Grips*
 * [The Money Store](https://en.wikipedia.org/wiki/The_Money_Store_(album)), by *Death Grips*
