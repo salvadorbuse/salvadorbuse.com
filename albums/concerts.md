@@ -3,25 +3,25 @@ layout: album
 title: 'Concerts'
 permalink: /albums/concerts/
 ---
-{% include plainimage.html image="albums/concerts/202204_kglw_madonna2.jpg" %}
+{% include plainimage.html image="albums/concerts/202204_kglw_madonna2.jpeg" %}
 <p style = "text-align: center;">
     <b>King Gizzard and the Lizard Wizard.</b> <i>Madonna Inn, San Luis Obispo, April 2022.</i>
 </p>
 
 ---
-{% include plainimage.html image="albums/concerts/202204_beachhouse_greekLA.jpg" %}
+{% include plainimage.html image="albums/concerts/202204_beachhouse_greekLA.jpeg" %}
 <p style = "text-align: center;">
     <b>Beach House.</b> <i>Greek Theatre, Los Angeles, April 2022.</i>
 </p>
 
 ---
-{% include plainimage.html image="albums/concerts/202111_idles_fonda.jpg" %}
+{% include plainimage.html image="albums/concerts/202111_idles_fonda.jpeg" %}
 <p style = "text-align: center;">
     <b>IDLES.</b> <i>Fonda Theatre, Los Angeles, November 2021.</i>
 </p>
 
 ---
-{% include plainimage.html image="albums/concerts/202110_osees_teragram.jpg" %}
+{% include plainimage.html image="albums/concerts/202110_osees_teragram.jpeg" %}
 <p style = "text-align: center;">
     <b>Osees.</b> <i>Teragram Ballroom, Los Angeles, Halloween 2021.</i>
 </p>
@@ -32,9 +32,15 @@ permalink: /albums/concerts/
   box-sizing: border-box;
 }
 
-.column2 {
+.column2a {
   float: left;
   width: 57.14%;
+  padding: 5px;
+}
+
+.column2b {
+  float: left;
+  width: 42.86%;
   padding: 5px;
 }
 
@@ -48,10 +54,10 @@ permalink: /albums/concerts/
 
 <div class="row">
     <div class="column2">
-        {% include plainimage.html image="albums/concerts/202110_sleighbells_teragram5.jpg" %}
+        {% include plainimage.html image="albums/concerts/202110_sleighbells_teragram5.jpeg" %}
     </div>
     <div class="column2">
-        {% include plainimage.html image="albums/concerts/202110_sleighbells_teragram4.jpg" %}
+        {% include plainimage.html image="albums/concerts/202110_sleighbells_teragram4.jpeg" %}
     </div>
 </div>
 <p style = "text-align: center;">
@@ -59,7 +65,7 @@ permalink: /albums/concerts/
 </p>
 
 ---
-{% include plainimage.html image="albums/concerts/202110_fuzz_teragram2.jpg" %}
+{% include plainimage.html image="albums/concerts/202110_fuzz_teragram2.jpeg" %}
 <p style = "text-align: center;">
     <b>Fuzz.</b> <i>Teragram Ballroom, Los Angeles, October 2021.</i>
 </p>
