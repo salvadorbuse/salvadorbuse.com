@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winfree Rotation"
-permalink: /projects/winfree_rotation/
+title: "Neural Reaction-Diffusion"
+permalink: /projects/neural_rd/
 ---
 

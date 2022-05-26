@@ -3,6 +3,68 @@ layout: album
 title: 'Concerts'
 permalink: /albums/concerts/
 ---
+{% include plainimage.html image="albums/concerts/202204_kglw_madonna2.jpg" %}
+<p style = "text-align: center;">
+    <b>King Gizzard and the Lizard Wizard.</b> <i>Madonna Inn, San Luis Obispo, April 2022.</i>
+</p>
+
+---
+{% include plainimage.html image="albums/concerts/202204_beachhouse_greekLA.jpg" %}
+<p style = "text-align: center;">
+    <b>Beach House.</b> <i>Greek Theatre, Los Angeles, April 2022.</i>
+</p>
+
+---
+{% include plainimage.html image="albums/concerts/202111_idles_fonda.jpg" %}
+<p style = "text-align: center;">
+    <b>IDLES.</b> <i>Fonda Theatre, Los Angeles, November 2021.</i>
+</p>
+
+---
+{% include plainimage.html image="albums/concerts/202110_osees_teragram.jpg" %}
+<p style = "text-align: center;">
+    <b>Osees.</b> <i>Teragram Ballroom, Los Angeles, Halloween 2021.</i>
+</p>
+
+---
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column2 {
+  float: left;
+  width: 57.14%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+<div class="row">
+    <div class="column2">
+        {% include plainimage.html image="albums/concerts/202110_sleighbells_teragram5.jpg" %}
+    </div>
+    <div class="column2">
+        {% include plainimage.html image="albums/concerts/202110_sleighbells_teragram4.jpg" %}
+    </div>
+</div>
+<p style = "text-align: center;">
+    <b>Sleigh Bells.</b> <i>Teragram Ballroom, October 2021.</i>
+</p>
+
+---
+{% include plainimage.html image="albums/concerts/202110_fuzz_teragram2.jpg" %}
+<p style = "text-align: center;">
+    <b>Fuzz.</b> <i>Teragram Ballroom, Los Angeles, October 2021.</i>
+</p>
+
+---
 {% include plainimage.html image="albums/concerts/201911_jpegmafia_houseofvans.jpeg" %}
 <p style = "text-align: center;">
     <b>jpegmafia.</b> <i>House of Vans, London, November 2019.</i>

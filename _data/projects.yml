@@ -2,7 +2,7 @@
 # Projects Section
 
 projects:
-- {name: 'Winfree Rotation 2020-21', folder: '2020_winfree_rotation', file: 'winfree_rotation/', thumbnail: 'thumb.gif'}
+- {name: 'Neural Reaction-Diffusion', folder: 'neural_rd', file: 'neural_rd/', thumbnail: 'thumb.gif'}
 #- {name: 'Concerts', folder: 'concerts', file: 'concerts/'}
 #- {name: 'Travel', folder: 'travel', file: 'travel/'}
 #- {name: 'Gallery', folder: 'gallery', file: 'gallery/'}
