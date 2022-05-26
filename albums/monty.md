@@ -3,7 +3,7 @@ layout: album
 title: 'Monty'
 permalink: /albums/monty/
 ---
-{% include plainimage.html image="albums/monty/202205_polling.jpeg" %}
+{% include plainimage.html image="albums/monty/202205_polling.jpg" %}
 <p style = "text-align: center;">
     <b>Civic duty calls.</b> <i>Cambridge, May 2022.</i>
 </p>
