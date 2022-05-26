@@ -27,45 +27,13 @@ permalink: /albums/concerts/
 </p>
 
 ---
-<style>
-* {
-  box-sizing: border-box;
-}
-
-.column2a {
-  float: left;
-  width: 57.14%;
-  padding: 5px;
-}
-
-.column2b {
-  float: left;
-  width: 42.86%;
-  padding: 5px;
-}
-
-/* Clearfix (clear floats) */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-</style>
-
-<div class="row">
-    <div class="column2">
-        {% include plainimage.html image="albums/concerts/202110_sleighbells_teragram5.jpeg" %}
-    </div>
-    <div class="column2">
-        {% include plainimage.html image="albums/concerts/202110_sleighbells_teragram4.jpeg" %}
-    </div>
-</div>
+{% include plainimage.html image="albums/concerts/202110_sleighbells_teragram4.jpeg.jpg" %}
 <p style = "text-align: center;">
     <b>Sleigh Bells.</b> <i>Teragram Ballroom, October 2021.</i>
 </p>
 
 ---
-{% include plainimage.html image="albums/concerts/202110_fuzz_teragram2.jpeg" %}
+{% include plainimage.html image="albums/concerts/202110_fuzz_teragram2.jpg" %}
 <p style = "text-align: center;">
     <b>Fuzz.</b> <i>Teragram Ballroom, Los Angeles, October 2021.</i>
 </p>
