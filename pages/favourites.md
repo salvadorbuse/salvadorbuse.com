@@ -24,7 +24,7 @@ permalink: /favourites/
 #### Blogs, Newsletters, and Websites <a name="sites"></a>
 
 #### Music <a name="music"></a>
-I am quite passionate about music (listening to it, I can't really play any), and I love [going to concerts](https://www.salvadorbuse.com/albums/concerts/) (this is just a sample!).
+I am quite passionate about music (listening to it, I can't really play any), and I love [going to concerts](https://www.salvadorbuse.com/albums/concerts/).
 
 ##### A subset of my favourite albums
 * [Highway to Hell](https://en.wikipedia.org/wiki/Highway_to_Hell), by *AC/DC*
@@ -145,9 +145,9 @@ I am quite passionate about music (listening to it, I can't really play any), an
 * [Weezer (Blue)](https://en.wikipedia.org/wiki/Weezer_(Blue_Album)), by *Weezer*
 * [I Can Hear the Heart Beating as One](https://en.wikipedia.org/wiki/I_Can_Hear_the_Heart_Beating_as_One), by *Yo La Tengo*
 
-Much of my favourite music can be found on my [Spotify profile](https://open.spotify.com/user/salvador.buse) and [YouTube](https://youtube.com/playlist?list=PLPHPCWozhDfSJrjBZGDp9DdSMRB_Gtq1d) [playlists](https://youtube.com/playlist?list=PLPHPCWozhDfQEn18EoQj6-GXq8NeMnBYE). Probably most representative of what I listen to is my playlist [Rock Is Not Dead](https://open.spotify.com/playlist/4lMNIgmEdxIjDVBzKypjT2), which contains some of my favourite songs from rock bands (quite loosely defined) whose debut album is from 2010 or later. A strangely high fraction of this music [comes from Australia](https://open.spotify.com/playlist/00FFDC7KnG9MbqSopqUpXw?si=f590c86b1fe0408b&pt=f2eb93686cbd654626ede1286f290ca9).
+You can find much more of my favourite music on my [Spotify profile](https://open.spotify.com/user/salvador.buse) and [YouTube](https://youtube.com/playlist?list=PLPHPCWozhDfSJrjBZGDp9DdSMRB_Gtq1d) [playlists](https://youtube.com/playlist?list=PLPHPCWozhDfQEn18EoQj6-GXq8NeMnBYE). Probably most representative of what I listen to is my playlist [Rock Is Not Dead](https://open.spotify.com/playlist/4lMNIgmEdxIjDVBzKypjT2), containing some favourite songs from rock bands (quite loosely defined) whose debut album is from 2010 or later. A strangely high fraction of this music [comes from Australia](https://open.spotify.com/playlist/00FFDC7KnG9MbqSopqUpXw?si=f590c86b1fe0408b&pt=f2eb93686cbd654626ede1286f290ca9).
 
-I am tired of hearing people say that there is no good current rock music -- there is plenty! Nevertheless, I understand the mistake. The classic rock music that people enjoy comes from 30+ years ago, when rock was the most popular genre of music, unlike now. More significantly, though, older music has had more time to go through [cultural filtration](https://www.youtube.com/watch?v=TGPVJvHwXgQ). The good stuff from yore has been found by other people, and has entered the popular conscious. You need to put in more work to find today's good stuff, and I am trying to contribute to that. May [King Gizzard and the Lizard Wizard](https://kinggizzardandthelizardwizard.com) be tomorrow's Pink Floyd!
+I am tired of hearing people say that there is no good current rock music -- there is plenty! Nevertheless, I understand the mistake. The classic rock music that people enjoy comes from 30+ years ago, when rock was the most popular genre of music (unlike now). More significantly, older music has had more time to go through [cultural filtration](https://www.youtube.com/watch?v=TGPVJvHwXgQ). The good stuff from yore has been found and analysed and recommended by other people, has entered the popular conscious. One needs to put in more work to find today's good stuff; I am trying to contribute to this noble cause. May [King Gizzard and the Lizard Wizard](https://kinggizzardandthelizardwizard.com) be tomorrow's Pink Floyd!
 
 #### Podcasts and YouTube Channels <a name="podcasts"></a>
 ##### Podcasts
