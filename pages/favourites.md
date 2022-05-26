@@ -285,7 +285,7 @@ A highly incomplete list of my favourite films. I have separated them by genre f
 
 ##### Documentary
 * [The Act of Killing](https://en.wikipedia.org/wiki/The_Act_of_Killing).
-* [Little Dieter Needs To FLy](https://en.wikipedia.org/wiki/Little_Dieter_Needs_to_Fly).
+* [Little Dieter Needs To Fly](https://en.wikipedia.org/wiki/Little_Dieter_Needs_to_Fly).
 * [Some Kind of Heaven](https://en.wikipedia.org/wiki/Some_Kind_of_Heaven).
 * [Tickled](https://en.wikipedia.org/wiki/Tickled).
 
