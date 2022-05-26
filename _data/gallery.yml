@@ -5,5 +5,6 @@ albums:
 - {name: 'Monty', folder: 'monty', file: 'monty/'}
 - {name: 'Concerts', folder: 'concerts', file: 'concerts/'}
 - {name: 'Travel', folder: 'travel', file: 'travel/'}
+- {name: 'Caltech', folder: 'caltech', file: 'caltech/'}
 #- {name: 'Gallery', folder: 'gallery', file: 'gallery/'}
 #- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
