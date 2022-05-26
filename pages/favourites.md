@@ -12,18 +12,52 @@ permalink: /favourites/
 6. [Music](#music)
 7. [Podcasts and YouTube Channels](#podcasts)
 8. [Films](#cinema)
+9. [TV Shows](#tv)
 
-#### Essays <a name="essays"></a>
+<a name="essays"></a>
 
-#### Scientific Articles <a name="articles"></a>
+#### Essays
 
-#### Nonfiction Books <a name="nonfiction"></a>
+<a name="articles"></a>
 
-#### Fiction Books <a name="fiction"></a>
+* [Politics and the English Language](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/), by George Orwell. 
 
-#### Blogs, Newsletters, and Websites <a name="sites"></a>
+#### Scientific Articles
 
-#### Music <a name="music"></a>
+<a name="nonfiction"></a>
+
+#### Nonfiction Books
+
+<a name="fiction"></a>
+
+#### Fiction Books
+
+<a name="sites"></a>
+
+#### Blogs, Newsletters, and Websites
+
+* [Alexey Guzey](https://guzey.com). A brilliant writer, became known for [deconstructing](https://guzey.com/books/why-we-sleep/) Matt Walker's *Why We Sleep*. Interesting in science funding, runs [New Science](https://newscience.org).
+* [Alignment Forum](https://www.alignmentforum.org). Home for AI safety and alignment content.
+* [Andrew Gelman](https://statmodeling.stat.columbia.edu). Stats professor at Columbia, an expert in Bayesian modelling and abuse of statistics.
+* [Astral Codex Ten](https://astralcodexten.substack.com). The new incarnation of [Slate Star Codex]().
+* [Cold Takes](https://www.cold-takes.com). Blog of Holden Karnofsky, CEO of [OpenPhil](https://www.openphilanthropy.org). About various topics in effective altruism; start with this series on [why we might be living in the most important century](https://www.cold-takes.com/most-important-century/).
+* [David Chapman](https://meaningness.com). Blogs about meaning.
+* [EA Forum](https://forum.effectivealtruism.org). Home for discussion about topics in EA. 
+* [EA Forum Digest](https://forum.effectivealtruism.org/posts/zRoXctENAsLchwryn/sign-up-for-the-forum-s-email-digest). The EA forum can be a bit overwhelming, this newsletter curates interesting and controversial forum posts.
+* [Epistemink](https://www.epistem.ink), formerly [Cerebralab](https://cerebralab.com/). Writes about machine learning and the scientific method.
+* [Gwern](https://www.gwern.net).
+* [Import AI](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c). Jack Clark's newsletter on developments in AI and ML. 
+* [LessWrong](https://www.lesswrong.com). Home of the rationalists. 
+* [Marginal Revolution](https://marginalrevolution.com). Economics blog by Tyler Cowen and Alex Tabarrok.
+* [Paul Graham](http://www.paulgraham.com). Founder of YCombinator and an excellent writer about topics in tech, startups, and culture.
+* [Putanumonit](https://putanumonit.com). Approaching life numerately.
+* [Scott Aaronson](https://scottaaronson.blog). Quantum computing professor at UTAustin.
+* [Slate Star Codex](https://slatestarcodex.com). A psychiatrist writing about... Everything. In my opition, one of the best writers alive today. Now writes at Astral Codex Ten, and has been focusing more on AI safety and EA topics of late.
+* [Wait But Why](https://waitbutwhy.com). Tim Urban's blog on science and your life.
+
+<a name="music"></a>
+
+#### Music
 I am quite passionate about music (listening to it, I can't really play any), and I love [going to concerts](https://www.salvadorbuse.com/albums/concerts/).
 
 ##### A subset of my favourite albums
@@ -182,3 +216,219 @@ These are a particularly delightful subset of my [YouTube subscriptions](https:/
 <a name="cinema"></a>
 
 #### Films
+
+A highly incomplete list of my favourite films. I have separated them by genre for readibility, though many of them could fit into multiple genres.
+
+##### Action and War
+* [Apocalypse Now](https://en.wikipedia.org/wiki/Apocalypse_Now).
+* [Battle Royale](https://en.wikipedia.org/wiki/Battle_Royale_(film)).
+* [Das Boot](https://en.wikipedia.org/wiki/Das_Boot).
+* [The Deer Hunter](https://en.wikipedia.org/wiki/The_Deer_Hunter).
+* [Die Hard](https://en.wikipedia.org/wiki/Die_Hard).
+* [Full Metal Jacket](https://en.wikipedia.org/wiki/Full_Metal_Jacket).
+* [The Hurt Locker](https://en.wikipedia.org/wiki/The_Hurt_Locker).
+* [The Painted Bird](https://en.wikipedia.org/wiki/The_Painted_Bird_(film)).
+* [Platoon](https://en.wikipedia.org/wiki/Platoon_(film)).
+* [The Raid](https://en.wikipedia.org/wiki/The_Raid_(2011_film)).
+* [The Terminator](https://en.wikipedia.org/wiki/The_Terminator).
+
+##### Comedy
+* [The Big Lebowski](https://en.wikipedia.org/wiki/The_Big_Lebowski).
+* [Borat](https://en.wikipedia.org/wiki/Borat).
+* [Burn After Reading](https://en.wikipedia.org/wiki/Burn_After_Reading).
+* [Brassed Off](https://en.wikipedia.org/wiki/Brassed_Off).
+* [Dazed and Confused](https://en.wikipedia.org/wiki/Dazed_and_Confused_(film)).
+* [The Death of Stalin](https://en.wikipedia.org/wiki/The_Death_of_Stalin).
+* [Dr Strangelove](https://en.wikipedia.org/wiki/Dr._Strangelove).
+* [Election](https://en.wikipedia.org/wiki/Election_(1999_film)).
+* [Everybody Wants Some!!](https://en.wikipedia.org/wiki/Everybody_Wants_Some!!_(film)).
+* [Fargo](https://en.wikipedia.org/wiki/Fargo_(1996_film)).
+* [Harold and Maude](https://en.wikipedia.org/wiki/Harold_and_Maude).
+* [Jackass](https://en.wikipedia.org/wiki/Jackass:_The_Movie). A deeply stupid yet utterly brilliant series of films.
+* [Shaun Of The Dead](https://en.wikipedia.org/wiki/Shaun_of_the_Dead).
+* [Sideways](https://en.wikipedia.org/wiki/Sideways).
+* [The Square](https://en.wikipedia.org/wiki/The_Square_(2017_film)).
+* [Toni Erdmann](https://en.wikipedia.org/wiki/Toni_Erdmann).
+* [Withnail and I](https://en.wikipedia.org/wiki/Withnail_and_I).
+
+##### Drama
+* [A Single Man](https://en.wikipedia.org/wiki/A_Single_Man).
+* [Boogie Nights](https://en.wikipedia.org/wiki/Boogie_Nights).
+* [Call Me By Your Name](https://en.wikipedia.org/wiki/Call_Me_by_Your_Name_(film)).
+* [Citizen Kane](https://en.wikipedia.org/wiki/Citizen_Kane).
+* [City of God](https://en.wikipedia.org/wiki/City_of_God_(2002_film)).
+* [Dogtooth](https://en.wikipedia.org/wiki/Dogtooth_(film)).
+* [Do The Right Thing](https://en.wikipedia.org/wiki/Do_the_Right_Thing).
+* [Embrace of the Serpent](https://en.wikipedia.org/wiki/Embrace_of_the_Serpent).
+* [Force Majeure](https://en.wikipedia.org/wiki/Force_Majeure_(film)).
+* [The Godfather](https://en.wikipedia.org/wiki/The_Godfather).
+* [The Imitation Game](https://en.wikipedia.org/wiki/The_Imitation_Game).
+* [The Lobster](https://en.wikipedia.org/wiki/The_Lobster).
+* [Margin Call](https://en.wikipedia.org/wiki/Margin_Call).
+* [Marriage Story](https://en.wikipedia.org/wiki/Marriage_Story).
+* [Midnight Express](https://en.wikipedia.org/wiki/Midnight_Express_(film)).
+* [Network](https://en.wikipedia.org/wiki/Network_(1976_film)).
+* [Once Upon A Time In Hollywood](https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_Hollywood).
+* [Parasite](https://en.wikipedia.org/wiki/Parasite_(2019_film)).
+* [Phantom Thread](https://en.wikipedia.org/wiki/Phantom_Thread).
+* [Reservoir Dogs](https://en.wikipedia.org/wiki/Reservoir_Dogs).
+* [Pulp Fiction](https://en.wikipedia.org/wiki/Pulp_Fiction).
+* [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs_(film)).
+* [Talk To Her](https://en.wikipedia.org/wiki/Talk_to_Her).
+* [There Will Be Blood](https://en.wikipedia.org/wiki/There_Will_Be_Blood).
+* [Titane](https://en.wikipedia.org/wiki/Titane).
+* [Trainspotting](https://en.wikipedia.org/wiki/Trainspotting_(film)).
+
+##### Documentary
+* [The Act of Killing](https://en.wikipedia.org/wiki/The_Act_of_Killing).
+* [Little Dieter Needs To FLy](https://en.wikipedia.org/wiki/Little_Dieter_Needs_to_Fly).
+* [Some Kind of Heaven](https://en.wikipedia.org/wiki/Some_Kind_of_Heaven).
+* [Tickled](https://en.wikipedia.org/wiki/Tickled).
+
+##### Horror
+* [28 Days Later](https://en.wikipedia.org/wiki/28_Days_Later).
+* [Audition](https://en.wikipedia.org/wiki/Audition_(1999_film)).
+* [The Babadook](https://en.wikipedia.org/wiki/The_Babadook).
+* [Baskin](https://en.wikipedia.org/wiki/Baskin_(film)).
+* [The Blair Witch Project](https://en.wikipedia.org/wiki/The_Blair_Witch_Project).
+* [Bone Tomahawk](https://en.wikipedia.org/wiki/Bone_Tomahawk).
+* [Climax](https://en.wikipedia.org/wiki/Climax_(2018_film)).
+* [Dawn Of The Dead](https://en.wikipedia.org/wiki/Dawn_of_the_Dead_(1978_film)).
+* [The Descent](https://en.wikipedia.org/wiki/The_Descent).
+* [Don't Look Now](https://en.wikipedia.org/wiki/Don't_Look_Now).
+* [Funny Games](https://en.wikipedia.org/wiki/Funny_Games_(1997_film)).
+* [Frontier(s)](https://en.wikipedia.org/wiki/Frontier(s)).
+* [The Grudge](https://en.wikipedia.org/wiki/Ju-On:_The_Grudge).
+* [Hereditary](https://en.wikipedia.org/wiki/Hereditary_(film)).
+* [I Saw The Devil](https://en.wikipedia.org/wiki/I_Saw_the_Devil).
+* [Irreversible](https://en.wikipedia.org/wiki/Irréversible).
+* [It Comes At Night](https://en.wikipedia.org/wiki/It_Comes_at_Night).
+* [It Follows](https://en.wikipedia.org/wiki/It_Follows).
+* [Kill List](https://en.wikipedia.org/wiki/Kill_List).
+* [Let The Right One In](https://en.wikipedia.org/wiki/Let_the_Right_One_In_(film)).
+* [The Lighthouse](https://en.wikipedia.org/wiki/The_Lighthouse_(2019_film)).
+* [Martyrs](https://en.wikipedia.org/wiki/Martyrs_(2008_film)).
+* [Pulse](https://en.wikipedia.org/wiki/Pulse_(2001_film)).
+* [Raw](https://en.wikipedia.org/wiki/Raw_(film)).
+* [REC](https://en.wikipedia.org/wiki/Rec_(film)).
+* [Ring](https://en.wikipedia.org/wiki/Ring_(film)).
+* [Rosemary's Baby](https://en.wikipedia.org/wiki/Rosemary's_Baby_(film)).
+* [Seven](https://en.wikipedia.org/wiki/Seven_(1995_film)).
+* [The Shining](https://en.wikipedia.org/wiki/The_Shining_(film)).
+* [The Texas Chainsaw Massacre](https://en.wikipedia.org/wiki/The_Texas_Chain_Saw_Massacre).
+* [The Thing](https://en.wikipedia.org/wiki/The_Thing_(1982_film)).
+* [Threads](https://en.wikipedia.org/wiki/Threads_(1984_film)).
+* [Train To Busan](https://en.wikipedia.org/wiki/Train_to_Busan).
+* [Videodrome](https://en.wikipedia.org/wiki/Videodrome).
+* [The Void](https://en.wikipedia.org/wiki/The_Void_(2016_film)).
+* [The Wailing](https://en.wikipedia.org/wiki/The_Wailing_(film)).
+* [The Wicker Man](https://en.wikipedia.org/wiki/The_Wicker_Man).
+* [The Witch](https://en.wikipedia.org/wiki/The_Witch_(2015_film)).
+* [Wolf Creek](https://en.wikipedia.org/wiki/Wolf_Creek_(film)).
+
+##### SciFi
+* [2001: A Space Odessy](https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film)).
+* [Akira](https://en.wikipedia.org/wiki/Akira_(1988_film)).
+* [Alien](https://en.wikipedia.org/wiki/Alien_(film)).
+* [Altered States](https://en.wikipedia.org/wiki/Altered_States).
+* [Annihilation](https://en.wikipedia.org/wiki/Annihilation_(film)).
+* [Arrival](https://en.wikipedia.org/wiki/Arrival_(film)).
+* [Blade Runner](https://en.wikipedia.org/wiki/Blade_Runner).
+* [Dune](https://en.wikipedia.org/wiki/Dune_(2021_film)).
+* [Everything Everywhere All At Once](https://en.wikipedia.org/wiki/Everything_Everywhere_All_at_Once). I went to see this in the cinema three times.
+* [Ex Machina](https://en.wikipedia.org/wiki/Ex_Machina_(film)).
+* [Gattaca](https://en.wikipedia.org/wiki/Gattaca).
+* [High Life](https://en.wikipedia.org/wiki/High_Life_(2018_film)).
+* [Moon](https://en.wikipedia.org/wiki/Moon_(2009_film)).
+* [Primer](https://en.wikipedia.org/wiki/Primer_(film)).
+* [Solaris](https://en.wikipedia.org/wiki/Solaris_(1972_film)).
+* [Starship Troopers](https://en.wikipedia.org/wiki/Starship_Troopers_(film)).
+* [Sunshine](https://en.wikipedia.org/wiki/Sunshine_(2007_film)).
+* [Under The Skin](https://en.wikipedia.org/wiki/Under_the_Skin_(2013_film)).
+
+##### Thriller
+* [The Constant Gardener](https://en.wikipedia.org/wiki/The_Constant_Gardener_(film)).
+* [Contagion](https://en.wikipedia.org/wiki/Contagion_(2011_film)).
+* [Donnie Darko](https://en.wikipedia.org/wiki/Donnie_Darko).
+* [Drive](https://en.wikipedia.org/wiki/Drive_(2011_film)).
+* [Green Room](https://en.wikipedia.org/wiki/Green_Room_(film)).
+* [Hell Or High Water](https://en.wikipedia.org/wiki/Hell_or_High_Water_(film)).
+* [The Killing of a Sacred Deer](https://en.wikipedia.org/wiki/The_Killing_of_a_Sacred_Deer).
+* [Memento](https://en.wikipedia.org/wiki/Memento_(film)).
+* [Mississippi Burning](https://en.wikipedia.org/wiki/Mississippi_Burning).
+* [Mulholland Drive](https://en.wikipedia.org/wiki/Mulholland_Drive_(film)).
+* [No Country For Old Men](https://en.wikipedia.org/wiki/No_Country_for_Old_Men).
+* [Oldboy](https://en.wikipedia.org/wiki/Oldboy_(2003_film)).
+* [Pi](https://en.wikipedia.org/wiki/Moon_(2009_film)).
+* [Sicario](https://en.wikipedia.org/wiki/Sicario_(2015_film)).
+* [The Silence of the Lambs](https://en.wikipedia.org/wiki/The_Silence_of_the_Lambs_(film)).
+* [The Skin I Live In](https://en.wikipedia.org/wiki/The_Skin_I_Live_In).
+* [Taxi Driver](https://en.wikipedia.org/wiki/Taxi_Driver).
+* [Tinker Tailor Soldier Spy](https://en.wikipedia.org/wiki/Tinker_Tailor_Soldier_Spy_(film)).
+* [TENET](https://en.wikipedia.org/wiki/Tenet_(film)).
+* [Uncut Gems](https://en.wikipedia.org/wiki/Uncut_Gems).
+* [Wind River](https://en.wikipedia.org/wiki/Wind_River_(film)).
+* [Zero Dark Thirty](https://en.wikipedia.org/wiki/Zero_Dark_Thirty).
+
+<a name="tv"></a>
+
+#### TV Shows
+
+A selection of my favourite TV shows.
+
+##### Comedy
+* [30 Rock](https://en.wikipedia.org/wiki/30_Rock).
+* [Arrested Development](https://en.wikipedia.org/wiki/Arrested_Development).
+* [Archer](https://en.wikipedia.org/wiki/Archer_(2009_TV_series)).
+* [Atlanta](https://en.wikipedia.org/wiki/Atlanta_(TV_series)).
+* [Bojack Horseman](https://en.wikipedia.org/wiki/BoJack_Horseman).
+* [Community](https://en.wikipedia.org/wiki/Community_(TV_series)).
+* [The Eric Andre Show](https://en.wikipedia.org/wiki/The_Eric_Andre_Show).
+* [Green Wing](https://en.wikipedia.org/wiki/Green_Wing).
+* [I Think You Should Leave](https://en.wikipedia.org/wiki/I_Think_You_Should_Leave_with_Tim_Robinson).
+* [It's Always Sunny In Philadelphia](https://en.wikipedia.org/wiki/It's_Always_Sunny_in_Philadelphia).
+* [Nathan For You](https://en.wikipedia.org/wiki/Nathan_for_You). 
+* [People Just Do Nothing](https://en.wikipedia.org/wiki/People_Just_Do_Nothing).
+* [Review](https://en.wikipedia.org/wiki/Review_(TV_series)).
+* [Silicon Valley](https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)).
+* [The Thick Of It](https://en.wikipedia.org/wiki/The_Thick_of_It).
+* [This Country](https://en.wikipedia.org/wiki/This_Country).
+* [Veep](https://en.wikipedia.org/wiki/Veep).
+
+##### Drame
+* [The Americans](https://en.wikipedia.org/wiki/The_Americans).
+* [Better Call Saul](https://en.wikipedia.org/wiki/Better_Call_Saul).
+* [Breaking Bad](https://en.wikipedia.org/wiki/Breaking_Bad).
+* [The Expanse](https://en.wikipedia.org/wiki/The_Expanse_(TV_series)).
+* [Fargo](https://en.wikipedia.org/wiki/Fargo_(TV_series)).
+* [Halt And Catch Fire](https://en.wikipedia.org/wiki/Halt_and_Catch_Fire_(TV_series)).
+* [Mad Men](https://en.wikipedia.org/wiki/Mad_Men).
+* [Mr Robot](https://en.wikipedia.org/wiki/Mr._Robot).
+* [Succession](https://en.wikipedia.org/wiki/Succession_(TV_series)).
+* [Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks).
+* [The West Wing](https://en.wikipedia.org/wiki/The_West_Wing).
+* [Westworld](https://en.wikipedia.org/wiki/Westworld_(TV_series)).
+* [The Wire](https://en.wikipedia.org/wiki/The_Wire).
+* [Utopia](https://en.wikipedia.org/wiki/Utopia_(British_TV_series)).
+
+##### Miniseries
+* [Angels in America](https://en.wikipedia.org/wiki/Angels_in_America_(miniseries)).
+* [Devilman Crybaby](https://en.wikipedia.org/wiki/Devilman_Crybaby).
+* [Chernobyl](https://en.wikipedia.org/wiki/Chernobyl_(miniseries)).
+* [Patrick Melrose](https://en.wikipedia.org/wiki/Patrick_Melrose_(TV_series)).
+* [The Night Of](https://en.wikipedia.org/wiki/The_Night_Of).
+* [Russian Doll](https://en.wikipedia.org/wiki/Russian_Doll_(TV_series)).
+* [The Terror](https://en.wikipedia.org/wiki/The_Terror_(TV_series)).
+* [Wolf Hall](https://en.wikipedia.org/wiki/Wolf_Hall_(TV_series)).
+
+##### Watchlist
+* [Babylon Berlin](https://en.wikipedia.org/wiki/Babylon_Berlin).
+* [Big Little Lies](https://en.wikipedia.org/wiki/Big_Little_Lies_(TV_series)).
+* [Car Share](https://en.wikipedia.org/wiki/Peter_Kay%27s_Car_Share).
+* [Deadwood](https://en.wikipedia.org/wiki/Deadwood_(TV_series)).
+* [Euphoria](https://en.wikipedia.org/wiki/Euphoria_(American_TV_series)).
+* [The Handmaid's Tale](https://en.wikipedia.org/wiki/The_Handmaid's_Tale_(TV_series)).
+* [Sharp Objects](https://en.wikipedia.org/wiki/Sharp_Objects_(miniseries)).
+* [The Shield](https://en.wikipedia.org/wiki/The_Shield).
+* [The Sopranos](https://en.wikipedia.org/wiki/The_Sopranos).
+* [The White Lotus](https://en.wikipedia.org/wiki/The_White_Lotus).
