@@ -3,6 +3,24 @@ layout: album
 title: 'Travel'
 permalink: /albums/travel/
 ---
+{% include plainimage.html image="albums/travel/202202_sudbury.jpeg" %}
+<p style = "text-align: center;">
+    <b>Walk on a frozen lake.</b> <i>Sudbury, Ontario, Canada, February 2022.</i>
+</p>
+
+---
+{% include plainimage.html image="albums/travel/202112_landsEnd.jpeg" %}
+<p style = "text-align: center;">
+    <b>Land's End.</b> <i>Cornwall, December 2021.</i>
+</p>
+
+---
+{% include plainimage.html image="albums/travel/202112_cornwall.jpeg" %}
+<p style = "text-align: center;">
+    <b>Pony on the South Coast.</b> <i>Cornwall, December 2021.</i>
+</p>
+
+---
 {% include plainimage.html image="albums/travel/201912_qatar_museum.jpeg" %}
 <p style = "text-align: center;">
     <b>Museum of Islamic Art.</b> <i>Doha, Qatar, December 2019.</i>
